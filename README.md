@@ -6,7 +6,7 @@ This project focuses on validating student-related data using custom rules and F
 
 ---
 
-## 🚀 Purpose of the Project
+## Purpose of the Project
 
 This project was developed as a **learning and practice exercise** to strengthen backend development skills, including:
 
@@ -18,7 +18,7 @@ This project was developed as a **learning and practice exercise** to strengthen
 
 ---
 
-## 🧠 Features
+## Features
 
 This API validates multiple student-related fields, including:
 
@@ -38,7 +38,7 @@ This API validates multiple student-related fields, including:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3
 - FastAPI
@@ -46,7 +46,7 @@ This API validates multiple student-related fields, including:
 
 ---
 
-## 📌 API Endpoint
+## API Endpoint
 
 ### POST `/validate`
 
@@ -57,13 +57,13 @@ This endpoint receives a JSON object containing student data and returns:
 
 ---
 
-## 🧩 Project Notes
+## Project Notes
 
 - This project is a **practice-level backend service**
 - Focus is on data validation logic and API structure
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Computer Engineering student interested in backend development and software engineering.
